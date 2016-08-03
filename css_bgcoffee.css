@@ -120,6 +120,15 @@ input[type=number] {
 }
 input[type=number]::-webkit-inner-spin-button,input[type=number]::-webkit-outer-spin-button {    -webkit-appearance: none  !important;    margin: 0;}
 
+.common_form_input_num {
+    height: auto;
+}
+.fw-placeholder {
+    color: #ADAEAB;
+    display: block;
+    height: 100%;
+    line-height: 48px;
+}
 .logo {
     margin: 4px auto 68px auto;
     text-align: center;
